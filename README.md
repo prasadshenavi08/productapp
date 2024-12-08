@@ -1,2 +1,18 @@
-# productapp
-This project showcases dynamic product management functionality using ReactJS and Tailwind CSS. This application simplifies product management with features like create, edit, update, and delete, all wrapped in an intuitive UI. Notifications and sleek design ensure a seamless user experience. 💻✨
+
+# Product Master Application
+
+This application is a simple product management tool where users can perform CRUD operations (Create, Read, Update, Delete) on a list of products. It is built using ReactJS and TailwindCSS and sources data from a JSON file.
+
+Technologies Used
+ReactJS: Frontend library.
+TailwindCSS: Styling framework.
+JSON: Data source for the application.
+
+## Installation and Setup
+Follow these steps to build and run the application:
+
+npm install
+npx tailwindcss init
+npm install tailwindcss postcss autoprefixer
+
+npm Start
